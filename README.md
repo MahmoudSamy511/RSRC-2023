@@ -3,10 +3,10 @@ Car operates in two modes [Line Follower - Obstacle Avoider].
 
 
 ## Teammates:
+ -  Mentor: [Mahmoud Ali](https://github.com/mahmoud-elbelasy)
  - [Abdulrahman Sleem](https://github.com/AbdulrahmanSleem)
  - [Abdallah El-Bahrawy](https://github.com/bahrawyyy)
  - [Karam Yassen](https://github.com/karamYaseen)
- - [Mahmoud Ali](https://github.com/mahmoud-elbelasy)
  - [Ahmed Moshtak]
 
 
